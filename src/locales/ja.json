@@ -24,52 +24,27 @@
       "description": "RobloxのHide ur Base and Stealを徹底攻略。最新引き換えコード、偽装拠点作り、ステルス潜入テクニック、アイテム一覧と便利技まとめ。"
     },
     "hero": {
-      "badge": "Roblox 戦略・レイド",
       "title": "Hide ur Base and Steal Wiki",
       "description": "拠点を敵の視線から巧みに隠し、防衛トラップを仕掛け、ライバルの要塞へ潜入して豪華なお宝を強奪しましょう！",
       "primaryCta": "攻略ガイドを見る",
       "secondaryCta": "コードを確認する",
-      "stats": {
-        "articles": "攻略記事数",
-        "categories": "カテゴリ",
-        "updates": "最新バージョン対応"
-      },
+      "stats": [
+        "300万回以上のアクセス",
+        "常時3,000人以上プレイ",
+        "ペット収集システム",
+        "拠点潜入アクション"
+      ],
       "eyebrow": "ファンコミュニティWiki",
       "videoLabel": "ゲームプレイ紹介",
       "tertiaryCta": "有効なコード"
     },
     "updates": {
       "title": "最新アップデート＆新着ガイド",
-      "description": "Hide ur Base and Stealの最新戦略、新コード配布、ゲームアップデート情報をいち早くお届けします。",
-      "badge": "新着情報",
       "browse": "すべてのガイドを見る",
       "viewAll": "すべて表示"
     },
     "start": {
       "title": "初心者向けスタートガイド",
-      "description": "Hide ur Base and Stealを始めたばかりですか？生き残りと勝利に必要な4つの基本ステップを押さえましょう。",
-      "steps": [
-        {
-          "step": "01",
-          "title": "見つかりにくい隠れ場所を選ぶ",
-          "description": "平野などの目立つ場所には決して拠点を建てないでください。洞窟や岩陰、マップの死角を利用して敵の索敵を回避しましょう。"
-        },
-        {
-          "step": "02",
-          "title": "防衛設備とトラップの配置",
-          "description": "迷路状の通路、ダミーの壁、トラップを設置して、侵入してきたプレイヤーの足を確実に止めましょう。"
-        },
-        {
-          "step": "03",
-          "title": "偵察と潜入ルートの確保",
-          "description": "敵の拠点を慎重に観察し、防御の薄い弱点を見極めてから素早く侵入を試みましょう。"
-        },
-        {
-          "step": "04",
-          "title": "コード報酬でスタートダッシュ",
-          "description": "公式が配布する最新コードを入力して、無料コインや強化アイテムを手に入れ、拠点強化を加速させましょう。"
-        }
-      ],
       "eyebrow": "ここからスタート",
       "cards": [
         {
@@ -96,7 +71,6 @@
     },
     "popular": {
       "title": "人気の攻略ガイド＆定番情報",
-      "description": "プレイヤーコミュニティで最も読まれているおすすめの攻略情報です。",
       "eyebrow": "人気のページ",
       "cards": [
         {
@@ -133,25 +107,6 @@
     },
     "aboutGame": {
       "title": "Hide ur Base and Stealとは",
-      "description": "Hide ur Base and Stealは、ステルス迷彩、自由な拠点建築、スリリングな潜入強奪アクションが融合したRobloxの人気ゲームです。開発グループSutik x Tommyが手掛けており、戦略的な思考と瞬時の判断力が試されます。",
-      "features": [
-        {
-          "title": "戦略的な拠点ビルド",
-          "description": "偽装入り口や迷路、トラップを駆使した難攻不落の隠れ家を自由に設計できます。"
-        },
-        {
-          "title": "白熱の潜入強奪レイド",
-          "description": "ライバル拠点の防衛をかいくぐり、宝箱を奪い取って無事に脱出しましょう。"
-        },
-        {
-          "title": "豊富なツールと装備",
-          "description": "壁を破壊するツールや特殊装備をアンロックして、侵入と防衛の両方を極めましょう。"
-        },
-        {
-          "title": "マルチプレイヤー対戦",
-          "description": "世界中のプレイヤーと対戦したり、フレンドと協力して大規模な拠点を攻略できます。"
-        }
-      ],
       "cta": "すべてのガイドを見る",
       "stats": [
         {
@@ -193,96 +148,188 @@
       "description": "知りたい情報に合わせて各カテゴリの攻略記事をチェックできます。",
       "modules": [
         {
-          "id": "module-codes",
-          "name": "Hide Ur Base and Steal 最新コード",
-          "category": "codes",
-          "layout": "list",
-          "count": 5,
-          "sort": "date"
-        },
-        {
-          "id": "module-guide",
-          "name": "Hide Ur Base and Steal 攻略ガイド",
-          "category": "guide",
-          "layout": "grid",
-          "count": 6,
-          "sort": "views"
-        },
-        {
-          "id": "module-mechanics",
-          "name": "Hide Ur Base and Steal ゲーム仕様",
-          "category": "mechanics",
-          "layout": "list",
-          "count": 5,
-          "sort": "date"
-        },
-        {
-          "id": "module-tips",
-          "name": "Hide Ur Base and Steal 上級テクニック",
-          "category": "tips",
-          "layout": "card-list",
-          "count": 4,
-          "sort": "date",
+          "order": 1,
+          "name": "Hide Ur Base and Steal Codes",
+          "description": "Check the latest working and expired promo codes, redeem procedures, and bonus reward tracking for Hide ur Base and Steal. (JA)",
+          "href": "/codes/hide-ur-base-and-steal-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "偽装術",
-              "text": "地形のテクスチャと同化させて入り口を完全に隠蔽します。"
+              "label": "RELEASE",
+              "detail": "Launch celebration reward code — Free Cash & Boosts"
             },
             {
-              "label": "囮トラップ",
-              "text": "安価なアイテムを入れた偽の部屋を作り、侵入者の時間を奪います。"
+              "label": "SECRETBASE",
+              "detail": "Community milestone promo code — Extra Starting Coins"
             },
             {
-              "label": "消音移動",
-              "text": "しゃがみ移動を活用し、足音による探知を防いで忍び寄ります。"
+              "label": "STEALPETS",
+              "detail": "Special event code — Luck Multiplier Boost"
             }
-          ]
+          ],
+          "title": " (JA)"
         },
         {
-          "id": "module-items",
-          "name": "Hide Ur Base and Steal アイテム・ツール一覧",
-          "category": "items",
-          "layout": "grid",
-          "count": 6,
-          "sort": "date"
-        },
-        {
-          "id": "module-controls",
-          "name": "Hide Ur Base and Steal 操作方法・キー設定",
-          "category": "controls",
-          "layout": "list",
-          "count": 4,
-          "sort": "date"
-        },
-        {
-          "id": "module-community",
-          "name": "Hide Ur Base and Steal コミュニティ・更新情報",
-          "category": "community",
-          "layout": "list",
-          "count": 4,
-          "sort": "date"
-        },
-        {
-          "id": "module-advanced",
-          "name": "Hide Ur Base and Steal 発展型攻略",
-          "category": "guide",
-          "layout": "card-list",
-          "count": 4,
-          "sort": "date",
+          "order": 2,
+          "name": "Hide Ur Base and Steal Beginner Guide",
+          "description": "Essential starter walkthrough explaining secret base creation, pet purchasing, money collection, and basic raiding. (JA)",
+          "href": "/guide/hide-ur-base-and-steal-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "序盤",
-              "text": "手早く初期物資を保護しコンパクトな掩蔽壕を確保。"
+              "label": "1",
+              "detail": "Place your secret entrance portal in an obscure, hard-to-reach corner of the map"
             },
             {
-              "label": "発展",
-              "text": "二重エアロックと複数の緊急脱出経路を連動設計。"
+              "label": "2",
+              "detail": "Enter your underground base and purchase starter pets to generate passive cash flow"
             },
             {
-              "label": "目標",
-              "text": "高価値な宝物庫の探知と最速ルートでの制圧。"
+              "label": "3",
+              "detail": "Collect accumulated money regularly to fund advanced pet upgrades and expansion"
+            },
+            {
+              "label": "4",
+              "detail": "Explore the map to track down rival player portals and infiltrate their bases"
             }
-          ]
+          ],
+          "title": " (JA)"
+        },
+        {
+          "order": 3,
+          "name": "Hide Ur Base and Steal Pets",
+          "description": "Comprehensive overview of pet tiers, income multipliers, collection rarities, and high-value target priority. (JA)",
+          "href": "/items/hide-ur-base-and-steal-items",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Starter",
+              "detail": "Common Dogs and Cats — Reliable early game income generators"
+            },
+            {
+              "label": "Advanced",
+              "detail": "Rare Beasts and Mythics — High cash output requiring fortified security"
+            },
+            {
+              "label": "Target",
+              "detail": "Legendary Trophies — Prime targets for infiltration and maximum resale value"
+            }
+          ],
+          "title": " (JA)"
+        },
+        {
+          "order": 4,
+          "name": "Hide Ur Base and Steal Base Guide",
+          "description": "Detailed breakdown of underground base architecture, secret entrance placement, and preventing intrusions. (JA)",
+          "href": "/mechanics/hide-ur-base-and-steal-base",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Scout camouflaged terrain, narrow crevices, and elevated structures for portal concealment"
+            },
+            {
+              "label": "2",
+              "detail": "Create segmented inner rooms inside your base to slow down potential infiltrators"
+            },
+            {
+              "label": "3",
+              "detail": "Position high-earning pets deep within interior compartments away from the main door"
+            }
+          ],
+          "title": " (JA)"
+        },
+        {
+          "order": 5,
+          "name": "Hide Ur Base and Steal Stealing Guide",
+          "description": "Strategic guide to tracking down rival bases, stealth infiltration techniques, and successful pet extraction. (JA)",
+          "href": "/mechanics/hide-ur-base-and-steal-stealing",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Watch player movement patterns across the map to locate suspicious hideout entrances"
+            },
+            {
+              "label": "2",
+              "detail": "Infiltrate the secret entrance when the owner is away gathering resources or raiding"
+            },
+            {
+              "label": "3",
+              "detail": "Grab the highest value pet and sprint directly back to your secure base vault"
+            }
+          ],
+          "title": " (JA)"
+        },
+        {
+          "order": 6,
+          "name": "Hide Ur Base and Steal Server Luck",
+          "description": "Understand how Server Luck doubles every 10 minutes and resets hourly to maximize rare pet spawns and cash boosts. (JA)",
+          "href": "/tips/hide-ur-base-and-steal-safest-base",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "50–60 Min Peak (32x Luck) — Optimal window for massive cash multipliers and rare pets"
+            },
+            {
+              "label": "A",
+              "detail": "30–40 Min Mid-Cycle (8x–16x Luck) — Strong return on pet upgrades and steady raiding"
+            },
+            {
+              "label": "B",
+              "detail": "10–20 Min Early Ramp (2x–4x Luck) — Ideal for setting up defenses and locating enemy portals"
+            },
+            {
+              "label": "C",
+              "detail": "0–10 Min Reset Period (1x Luck) — Baseline stats right after server hourly rotation"
+            }
+          ],
+          "title": " (JA)"
+        },
+        {
+          "order": 7,
+          "name": "Hide Ur Base and Steal Tips",
+          "description": "Tactical survival tips, decoy placement strategies, and quick cash accumulation methods for top players. (JA)",
+          "href": "/tips/hide-ur-base-and-steal-hidden-base",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Camouflage",
+              "detail": "Blend base portals behind decorative environment props and dark shadows"
+            },
+            {
+              "label": "Diversion",
+              "detail": "Set misleading trails away from your genuine underground vault location"
+            },
+            {
+              "label": "Prowling",
+              "detail": "Track player chat alerts and cash rank indicators to target wealthy bases"
+            }
+          ],
+          "title": " (JA)"
+        },
+        {
+          "order": 8,
+          "name": "Hide Ur Base and Steal Updates",
+          "description": "Latest patch release notes, gameplay balance adjustments, new pet releases, and feature roadmap details. (JA)",
+          "href": "/community/hide-ur-base-and-steal-update",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Server Luck progression system added with 10-minute exponential scaling"
+            },
+            {
+              "label": "2",
+              "detail": "New secret portal locations and subterranean expansion spaces introduced"
+            },
+            {
+              "label": "3",
+              "detail": "Enhanced pet inventory capacity and improved theft detection alerts"
+            }
+          ],
+          "title": " (JA)"
         }
       ]
     },

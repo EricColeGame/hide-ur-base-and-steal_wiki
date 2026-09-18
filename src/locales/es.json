@@ -24,52 +24,27 @@
       "description": "Domina Hide ur Base and Steal en Roblox con códigos verificados, camuflaje de bases, técnicas de asalto, lista de objetos y consejos."
     },
     "hero": {
-      "badge": "Roblox Táctica y Asaltos",
       "title": "Hide ur Base and Steal Wiki",
       "description": "Esconde tu base de miradas indiscretas, coloca trampas defensivas y asalta fortalezas enemigas para robar valiosas recompensas en Roblox.",
       "primaryCta": "Explorar guías",
       "secondaryCta": "Canjear códigos",
-      "stats": {
-        "articles": "Guías detalladas",
-        "categories": "Categorías clave",
-        "updates": "Versión más reciente"
-      },
+      "stats": [
+        "3M+ Visitas",
+        "3K+ Jugadores en línea",
+        "Colección de mascotas",
+        "Infiltración de bases"
+      ],
       "eyebrow": "Wiki de la comunidad",
       "videoLabel": "Demostración de juego",
       "tertiaryCta": "Códigos activos"
     },
     "updates": {
       "title": "Últimas actualizaciones y guías",
-      "description": "Mantente al día con las estrategias más recientes, nuevos códigos y tácticas para Hide ur Base and Steal.",
-      "badge": "Novedades",
       "browse": "Explorar todas las guías",
       "viewAll": "Ver todo"
     },
     "start": {
       "title": "Guía de inicio rápido",
-      "description": "¿Nuevo en Hide ur Base and Steal? Sigue estos cuatro pasos clave para comenzar con ventaja.",
-      "steps": [
-        {
-          "step": "01",
-          "title": "Elige una ubicación secreta",
-          "description": "Nunca construyas en terreno abierto. Aprovecha cuevas, sombras y rincones lejanos del mapa para ocultar tu base de otros jugadores."
-        },
-        {
-          "step": "02",
-          "title": "Construye defensas y trampas",
-          "description": "Protege tu tesoro con pasillos laberínticos, puertas señuelo y trampas ocultas para frenar a cualquier asaltante."
-        },
-        {
-          "step": "03",
-          "title": "Explora y planifica asaltos",
-          "description": "Inspecciona el territorio rival con discreción. Localiza puntos débiles antes de iniciar una incursión."
-        },
-        {
-          "step": "04",
-          "title": "Canjea códigos y recompensas",
-          "description": "Utiliza los códigos vigentes para conseguir monedas gratis, mejoras y materiales de construcción rápidamente."
-        }
-      ],
       "eyebrow": "Empieza aquí",
       "cards": [
         {
@@ -96,7 +71,6 @@
     },
     "popular": {
       "title": "Guías populares y recursos",
-      "description": "Las tácticas más leídas y recomendadas por nuestra comunidad de jugadores.",
       "eyebrow": "Páginas populares",
       "cards": [
         {
@@ -133,25 +107,6 @@
     },
     "aboutGame": {
       "title": "Acerca de Hide ur Base and Steal",
-      "description": "Hide ur Base and Steal es un emocionante juego de Roblox que combina sigilo, creatividad constructiva y audaces asaltos. Creado por Sutik x Tommy, premia la astucia estratégica y la rapidez mental.",
-      "features": [
-        {
-          "title": "Construcción estratégica",
-          "description": "Diseña bases secretas equipadas con laberintos, puertas falsas y defensas letales."
-        },
-        {
-          "title": "Incursiones llenas de acción",
-          "description": "Infiltra bases enemigas, burla sus trampas y escapa con el botín intacto."
-        },
-        {
-          "title": "Herramientas especializadas",
-          "description": "Desbloquea equipamiento avanzado para sabotear defensas o reforzar tus propios muros."
-        },
-        {
-          "title": "Partidas multijugador dinámicas",
-          "description": "Compite contra rivales de todo el mundo o colabora con amigos para asaltar enormes bases."
-        }
-      ],
       "cta": "Explorar todas las guías",
       "stats": [
         {
@@ -193,96 +148,188 @@
       "description": "Accede directamente a toda la información que necesitas para mejorar tu juego.",
       "modules": [
         {
-          "id": "module-codes",
-          "name": "Hide Ur Base and Steal Códigos",
-          "category": "codes",
-          "layout": "list",
-          "count": 5,
-          "sort": "date"
-        },
-        {
-          "id": "module-guide",
-          "name": "Hide Ur Base and Steal Guías",
-          "category": "guide",
-          "layout": "grid",
-          "count": 6,
-          "sort": "views"
-        },
-        {
-          "id": "module-mechanics",
-          "name": "Hide Ur Base and Steal Mecánicas de juego",
-          "category": "mechanics",
-          "layout": "list",
-          "count": 5,
-          "sort": "date"
-        },
-        {
-          "id": "module-tips",
-          "name": "Hide Ur Base and Steal Consejos expertos",
-          "category": "tips",
-          "layout": "card-list",
-          "count": 4,
-          "sort": "date",
+          "order": 1,
+          "name": "Hide Ur Base and Steal Codes",
+          "description": "Check the latest working and expired promo codes, redeem procedures, and bonus reward tracking for Hide ur Base and Steal. (ES)",
+          "href": "/codes/hide-ur-base-and-steal-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Camuflaje",
-              "text": "Oculta la entrada principal mimetizándola con el entorno natural."
+              "label": "RELEASE",
+              "detail": "Launch celebration reward code — Free Cash & Boosts"
             },
             {
-              "label": "Distracción",
-              "text": "Construye salas señuelo visibles con botines de escaso valor."
+              "label": "SECRETBASE",
+              "detail": "Community milestone promo code — Extra Starting Coins"
             },
             {
-              "label": "Sigilo",
-              "text": "Desplázate agachado para no alertar a los centinelas enemigos."
+              "label": "STEALPETS",
+              "detail": "Special event code — Luck Multiplier Boost"
             }
-          ]
+          ],
+          "title": " (ES)"
         },
         {
-          "id": "module-items",
-          "name": "Hide Ur Base and Steal Objetos y herramientas",
-          "category": "items",
-          "layout": "grid",
-          "count": 6,
-          "sort": "date"
-        },
-        {
-          "id": "module-controls",
-          "name": "Hide Ur Base and Steal Controles y comandos",
-          "category": "controls",
-          "layout": "list",
-          "count": 4,
-          "sort": "date"
-        },
-        {
-          "id": "module-community",
-          "name": "Hide Ur Base and Steal Comunidad y noticias",
-          "category": "community",
-          "layout": "list",
-          "count": 4,
-          "sort": "date"
-        },
-        {
-          "id": "module-advanced",
-          "name": "Hide Ur Base and Steal Tácticas avanzadas",
-          "category": "guide",
-          "layout": "card-list",
-          "count": 4,
-          "sort": "date",
+          "order": 2,
+          "name": "Hide Ur Base and Steal Beginner Guide",
+          "description": "Essential starter walkthrough explaining secret base creation, pet purchasing, money collection, and basic raiding. (ES)",
+          "href": "/guide/hide-ur-base-and-steal-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Iniciación",
-              "text": "Aseguramiento rápido de recursos iniciales y búnkeres compactos."
+              "label": "1",
+              "detail": "Place your secret entrance portal in an obscure, hard-to-reach corner of the map"
             },
             {
-              "label": "Avanzado",
-              "text": "Diseño de rutas de escape dobles y esclusas de seguridad herméticas."
+              "label": "2",
+              "detail": "Enter your underground base and purchase starter pets to generate passive cash flow"
             },
             {
-              "label": "Objetivo",
-              "text": "Identificación y asalto prioritario a cámaras acorazadas enemigas."
+              "label": "3",
+              "detail": "Collect accumulated money regularly to fund advanced pet upgrades and expansion"
+            },
+            {
+              "label": "4",
+              "detail": "Explore the map to track down rival player portals and infiltrate their bases"
             }
-          ]
+          ],
+          "title": " (ES)"
+        },
+        {
+          "order": 3,
+          "name": "Hide Ur Base and Steal Pets",
+          "description": "Comprehensive overview of pet tiers, income multipliers, collection rarities, and high-value target priority. (ES)",
+          "href": "/items/hide-ur-base-and-steal-items",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Starter",
+              "detail": "Common Dogs and Cats — Reliable early game income generators"
+            },
+            {
+              "label": "Advanced",
+              "detail": "Rare Beasts and Mythics — High cash output requiring fortified security"
+            },
+            {
+              "label": "Target",
+              "detail": "Legendary Trophies — Prime targets for infiltration and maximum resale value"
+            }
+          ],
+          "title": " (ES)"
+        },
+        {
+          "order": 4,
+          "name": "Hide Ur Base and Steal Base Guide",
+          "description": "Detailed breakdown of underground base architecture, secret entrance placement, and preventing intrusions. (ES)",
+          "href": "/mechanics/hide-ur-base-and-steal-base",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Scout camouflaged terrain, narrow crevices, and elevated structures for portal concealment"
+            },
+            {
+              "label": "2",
+              "detail": "Create segmented inner rooms inside your base to slow down potential infiltrators"
+            },
+            {
+              "label": "3",
+              "detail": "Position high-earning pets deep within interior compartments away from the main door"
+            }
+          ],
+          "title": " (ES)"
+        },
+        {
+          "order": 5,
+          "name": "Hide Ur Base and Steal Stealing Guide",
+          "description": "Strategic guide to tracking down rival bases, stealth infiltration techniques, and successful pet extraction. (ES)",
+          "href": "/mechanics/hide-ur-base-and-steal-stealing",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Watch player movement patterns across the map to locate suspicious hideout entrances"
+            },
+            {
+              "label": "2",
+              "detail": "Infiltrate the secret entrance when the owner is away gathering resources or raiding"
+            },
+            {
+              "label": "3",
+              "detail": "Grab the highest value pet and sprint directly back to your secure base vault"
+            }
+          ],
+          "title": " (ES)"
+        },
+        {
+          "order": 6,
+          "name": "Hide Ur Base and Steal Server Luck",
+          "description": "Understand how Server Luck doubles every 10 minutes and resets hourly to maximize rare pet spawns and cash boosts. (ES)",
+          "href": "/tips/hide-ur-base-and-steal-safest-base",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "50–60 Min Peak (32x Luck) — Optimal window for massive cash multipliers and rare pets"
+            },
+            {
+              "label": "A",
+              "detail": "30–40 Min Mid-Cycle (8x–16x Luck) — Strong return on pet upgrades and steady raiding"
+            },
+            {
+              "label": "B",
+              "detail": "10–20 Min Early Ramp (2x–4x Luck) — Ideal for setting up defenses and locating enemy portals"
+            },
+            {
+              "label": "C",
+              "detail": "0–10 Min Reset Period (1x Luck) — Baseline stats right after server hourly rotation"
+            }
+          ],
+          "title": " (ES)"
+        },
+        {
+          "order": 7,
+          "name": "Hide Ur Base and Steal Tips",
+          "description": "Tactical survival tips, decoy placement strategies, and quick cash accumulation methods for top players. (ES)",
+          "href": "/tips/hide-ur-base-and-steal-hidden-base",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Camouflage",
+              "detail": "Blend base portals behind decorative environment props and dark shadows"
+            },
+            {
+              "label": "Diversion",
+              "detail": "Set misleading trails away from your genuine underground vault location"
+            },
+            {
+              "label": "Prowling",
+              "detail": "Track player chat alerts and cash rank indicators to target wealthy bases"
+            }
+          ],
+          "title": " (ES)"
+        },
+        {
+          "order": 8,
+          "name": "Hide Ur Base and Steal Updates",
+          "description": "Latest patch release notes, gameplay balance adjustments, new pet releases, and feature roadmap details. (ES)",
+          "href": "/community/hide-ur-base-and-steal-update",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Server Luck progression system added with 10-minute exponential scaling"
+            },
+            {
+              "label": "2",
+              "detail": "New secret portal locations and subterranean expansion spaces introduced"
+            },
+            {
+              "label": "3",
+              "detail": "Enhanced pet inventory capacity and improved theft detection alerts"
+            }
+          ],
+          "title": " (ES)"
         }
       ]
     },
