@@ -1,1 +1,386 @@
-{}
+{
+  "site": {
+    "name": "Hide ur Base and Steal Wiki",
+    "shortName": "Base & Steal Wiki",
+    "tagline": "Verstecke deine Basis, verteidige deine Flagge und überfalle Rivalen",
+    "description": "Die umfassende Wissensdatenbank für Hide ur Base and Steal auf Roblox. Entdecke funktionierende Codes, Basenbau-Strategien, Schleichen-Taktiken und Steuerungstipps.",
+    "legalNotice": "Hide ur Base and Steal Wiki ist eine von Fans erstellte Ressource und steht in keiner Verbindung zu Sutik x Tommy oder Roblox Corporation."
+  },
+  "nav": {
+    "home": "Startseite",
+    "menu": "Menü",
+    "toggleTheme": "Design wechseln",
+    "codes": "Codes",
+    "guide": "Leitfäden",
+    "mechanics": "Mechaniken",
+    "tips": "Tipps",
+    "items": "Gegenstände",
+    "controls": "Steuerung",
+    "community": "Community"
+  },
+  "home": {
+    "meta": {
+      "title": "Hide ur Base and Steal Wiki — Codes, Basenbau & Taktik-Guide",
+      "description": "Meistere Hide ur Base and Steal auf Roblox mit geprüften Codes, Basen-Tarnung, Einbruchstaktiken, Gegenstandslisten und Gameplay-Tipps."
+    },
+    "hero": {
+      "badge": "Roblox Taktik & Raiding",
+      "title": "Hide ur Base and Steal Wiki",
+      "description": "Verstecke deine Basis vor neugierigen Blicken, platziere heimtückische Fallen und überfalle feindliche Festungen, um wertvolle Beute auf Roblox zu sichern.",
+      "primaryCta": "Leitfäden ansehen",
+      "secondaryCta": "Codes einlösen",
+      "stats": {
+        "articles": "Detaillierte Anleitungen",
+        "categories": "Kernbereiche",
+        "updates": "Aktuelle Spielversion"
+      },
+      "eyebrow": "Fan-Community-Wiki",
+      "videoLabel": "Gameplay-Showcase",
+      "tertiaryCta": "Aktive Codes"
+    },
+    "updates": {
+      "title": "Neueste Spiel-Updates & Guides",
+      "description": "Bleibe immer auf dem neuesten Stand mit frischen Strategien, Code-Drops und Taktiken für Hide ur Base and Steal.",
+      "badge": "Neuigkeiten",
+      "browse": "Alle Leitfäden durchsuchen",
+      "viewAll": "Alle ansehen"
+    },
+    "start": {
+      "title": "Schnellstart-Leitfaden",
+      "description": "Neu bei Hide ur Base and Steal? Folge diesen vier wesentlichen Schritten für deinen erfolgreichen Einstieg.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Geheimen Standort wählen",
+          "description": "Baue deine Basis niemals im offenen Gelände. Nutze natürliche Höhlen, Schatten und abgelegene Ecken der Karte, um deine Struktur vor Plünderern zu verbergen."
+        },
+        {
+          "step": "02",
+          "title": "Verteidigung & Fallen errichten",
+          "description": "Sichere deine Kernressourcen mit verwinkelten Gängen, Köderwänden und defensiven Barrikaden, um Eindringlinge aufzuhalten."
+        },
+        {
+          "step": "03",
+          "title": "Aufklärungs- & Einbruchsmissionen",
+          "description": "Spähe fremde Territorien vorsichtig aus. Identifiziere Schwachstellen in feindlichen Befestigungen, bevor du einen Überfall startest."
+        },
+        {
+          "step": "04",
+          "title": "Codes & Belohnungen einlösen",
+          "description": "Nutze aktive Codes, um Gratis-Münzen, Power-ups und Baumaterialien für schnellere Upgrades zu erhalten."
+        }
+      ],
+      "eyebrow": "Hier starten",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Anfänger-Leitfaden",
+          "description": "Erfahre, wie du deinen geheimen Eingang setzt, in deinen Untergrundbunker gelangst und Münzen sowie Haustiere verdienst."
+        },
+        {
+          "number": "2",
+          "title": "Beste Verstecke",
+          "description": "Entdecke die verborgensten Orte auf der Karte, um dein Basenportal vor neugierigen Rivalen zu verstecken."
+        },
+        {
+          "number": "3",
+          "title": "Haustier-Diebstahl-Guide",
+          "description": "Meistere das Auskundschaften feindlicher Basen, schleiche durch geheime Tunnel und trage gegnerische Haustiere sicher in deinen Tresor."
+        },
+        {
+          "number": "4",
+          "title": "Basensicherheit & Verteidigung",
+          "description": "Schütze deine wertvollsten Haustiere, indem du Geheimräume absicherst, Köder-Eingänge platzierst und Basen-Layouts optimierst."
+        }
+      ]
+    },
+    "popular": {
+      "title": "Beliebte Anleitungen & Ressourcen",
+      "description": "Die am häufigsten gelesenen Taktiken und Tipps unserer Community.",
+      "eyebrow": "Beliebte Seiten",
+      "cards": [
+        {
+          "badge": "Anfänger",
+          "title": "Anfänger-Leitfaden",
+          "description": "Lerne, wie du deinen Baseneingang setzt, Haustiere verwaltest und Münzen sammelst.",
+          "href": "/guide/hide-ur-base-and-steal-beginner-guide"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Aktive Codes",
+          "description": "Löse die neuesten Promo-Codes für Gratis-Geld und Server-Boosts ein.",
+          "href": "/codes/hide-ur-base-and-steal-codes"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Beste Verstecke",
+          "description": "Finde die geheimsten Plätze auf der Karte, um deine Basis optimal zu verbergen.",
+          "href": "/guide/hide-ur-base-and-steal-best-hiding-spots"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Basensicherheits-Guide",
+          "description": "Befestige deinen unterirdischen Bunker und schütze Haustiere vor Eindringlingen.",
+          "href": "/mechanics/hide-ur-base-and-steal-base"
+        }
+      ],
+      "quickLinks": [
+        "Anfänger-Leitfaden",
+        "Beste Verstecke",
+        "Haustier-Diebstahl",
+        "Aktive Codes"
+      ]
+    },
+    "aboutGame": {
+      "title": "Über Hide ur Base and Steal",
+      "description": "Hide ur Base and Steal ist ein rasantes Roblox-Spiel, das Tarnung, kreativen Basenbau und spannende Heists kombiniert. Entwickelt von Sutik x Tommy, fordert das Spiel strategisches Denken und schnelle Reflexe.",
+      "features": [
+        {
+          "title": "Strategischer Basenbau",
+          "description": "Errichte verborgene Festungen mit Fallen, Labyrinthen und getarnten Eingängen."
+        },
+        {
+          "title": "Spannende Überfälle",
+          "description": "Infiltriere rivalisierende Basen, umgehe Schutzmaßnahmen und entkomme mit wertvoller Beute."
+        },
+        {
+          "title": "Werkzeuge & Ausrüstung",
+          "description": "Schalte Spezialwerkzeuge frei, um Barrieren schneller zu durchbrechen oder deine Basis noch besser abzusichern."
+        },
+        {
+          "title": "Dynamische Mehrspieler-Runden",
+          "description": "Tritt gegen Spieler weltweit an oder schließe dich mit Freunden zusammen, um riesige Basen zu knacken."
+        }
+      ],
+      "cta": "Alle Leitfäden entdecken",
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Sutik x Tommy"
+        },
+        {
+          "label": "Plattform",
+          "value": "Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "Simulation / Tycoon"
+        },
+        {
+          "label": "Gesamtbesuche",
+          "value": "3M+"
+        },
+        {
+          "label": "Aktive Spieler",
+          "value": "3K+"
+        },
+        {
+          "label": "Spitzen-CCU",
+          "value": "5K+"
+        },
+        {
+          "label": "Kernspiel",
+          "value": "Verstecken & Stehlen"
+        }
+      ],
+      "paragraphs": [
+        "Hide ur Base and Steal ist ein packendes Roblox-Simulations- und Multiplayer-Strategiespiel von Sutik x Tommy. Dein Ziel ist es, deine geheime unterirdische Basis zu errichten, wertvolle einkommensbringende Haustiere zu kaufen und deine Gewinne vor rivalisierenden Spielern zu verteidigen.",
+        "Der größte Nervenkitzel liegt darin, versteckte Basiseingänge anderer Spieler aufzuspüren. Schleiche an ihren Verteidigungen vorbei, schnappe dir High-Tier-Haustiere direkt aus ihren Tresoren und entkomme unbemerkt, während du vom Server-Glücks-Boost profitierst."
+      ]
+    },
+    "explore": {
+      "title": "Wiki nach Kategorien erkunden",
+      "description": "Finde gezielt die Informationen, die du für deinen nächsten Sieg benötigst.",
+      "modules": [
+        {
+          "id": "module-codes",
+          "name": "Hide Ur Base and Steal Codes",
+          "category": "codes",
+          "layout": "list",
+          "count": 5,
+          "sort": "date"
+        },
+        {
+          "id": "module-guide",
+          "name": "Hide Ur Base and Steal Leitfäden",
+          "category": "guide",
+          "layout": "grid",
+          "count": 6,
+          "sort": "views"
+        },
+        {
+          "id": "module-mechanics",
+          "name": "Hide Ur Base and Steal Spielmechaniken",
+          "category": "mechanics",
+          "layout": "list",
+          "count": 5,
+          "sort": "date"
+        },
+        {
+          "id": "module-tips",
+          "name": "Hide Ur Base and Steal Profi-Tipps",
+          "category": "tips",
+          "layout": "card-list",
+          "count": 4,
+          "sort": "date",
+          "highlights": [
+            {
+              "label": "Tarnung",
+              "text": "Verstecke deinen Haupteingang hinter natürlichen Landschaftsstrukturen."
+            },
+            {
+              "label": "Ablenkung",
+              "text": "Erstelle offensichtliche Köder-Räume mit geringwertigen Vorräten."
+            },
+            {
+              "label": "Schleichen",
+              "text": "Bewege dich lautlos, um nicht auf dem Radar gegnerischer Wachposten aufzutauchen."
+            }
+          ]
+        },
+        {
+          "id": "module-items",
+          "name": "Hide Ur Base and Steal Gegenstände & Werkzeuge",
+          "category": "items",
+          "layout": "grid",
+          "count": 6,
+          "sort": "date"
+        },
+        {
+          "id": "module-controls",
+          "name": "Hide Ur Base and Steal Steuerung & Tastenbelegung",
+          "category": "controls",
+          "layout": "list",
+          "count": 4,
+          "sort": "date"
+        },
+        {
+          "id": "module-community",
+          "name": "Hide Ur Base and Steal Community & Updates",
+          "category": "community",
+          "layout": "list",
+          "count": 4,
+          "sort": "date"
+        },
+        {
+          "id": "module-advanced",
+          "name": "Hide Ur Base and Steal Fortgeschrittene Taktiken",
+          "category": "guide",
+          "layout": "card-list",
+          "count": 4,
+          "sort": "date",
+          "highlights": [
+            {
+              "label": "Starter",
+              "text": "Schnelle Sicherung der ersten Beute und Bau kompakter Bunker."
+            },
+            {
+              "label": "Fortgeschritten",
+              "text": "Verbinde mehrere Fluchtwege und doppelte Sicherheitsschleusen."
+            },
+            {
+              "label": "Zielobjekt",
+              "text": "Priorisiere hochwertige Schatzkammern für maximalen Gewinn."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen (FAQ)",
+      "description": "Antworten auf die wichtigsten Fragen zu Hide ur Base and Steal.",
+      "items": [
+        {
+          "question": "Was ist Hide ur Base and Steal auf Roblox?",
+          "answer": "Es ist ein strategisches Roblox-Erlebnis, in dem Spieler geheime Basen errichten, Verteidigungsanlagen bauen und die Festungen anderer Spieler infiltrieren, um Schätze zu stehlen."
+        },
+        {
+          "question": "Wie löse ich Codes im Spiel ein?",
+          "answer": "Öffne das Spiel auf Roblox, suche das Code- oder Geschenk-Symbol im Menübildschirm, gib deinen aktiven Code ein und bestätige, um kostenlose Belohnungen zu erhalten."
+        },
+        {
+          "question": "Wo baue ich meine Basis am besten?",
+          "answer": "Die effektivsten Standorte liegen abseits der Hauptwege, hinter Bergen oder in verwinkelten Höhlenbereichen, die schwer einzusehen sind."
+        },
+        {
+          "question": "Wer hat Hide ur Base and Steal entwickelt?",
+          "answer": "Das Spiel wurde von der Roblox-Entwicklergruppe Sutik x Tommy kreiert und wird regelmäßig mit neuen Features aktualisiert."
+        },
+        {
+          "question": "Kann ich mit Freunden im Team spielen?",
+          "answer": "Ja, du kannst dich mit Freunden auf demselben Server zusammenschließen, gemeinsame Verteidigungslinien koordinieren und gemeinsam gegnerische Basen überfallen."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit für den nächsten großen Heist?",
+      "description": "Errichte die unbezwingbarste Basis und werde zum gefürchtetsten Meisterdieb des Servers.",
+      "primary": "Leitfäden entdecken",
+      "secondary": "Auf Roblox spielen"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes ansehen",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Bereich",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Weiterführende Lektüre",
+    "relatedGuides": "Verwandte Leitfäden",
+    "readMore": "Mehr erfahren",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Derzeit sind in diesem Bereich noch keine Leitfäden verfügbar."
+  },
+  "footer": {
+    "aboutTitle": "Über die Wiki",
+    "about": "Hide ur Base and Steal Wiki ist dein ultimativer Begleiter für Taktiken, Basenbau-Geheimnisse und aktuelle Codes auf Roblox.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Leitfäden",
+    "legal": "Rechtliches",
+    "copyright": "Alle Spielinhalte und Markenzeichen gehören ihren jeweiligen Eigentümern.",
+    "description": "Die führende Community-Ressource für Hide ur Base and Steal.",
+    "playGame": "Auf Roblox spielen",
+    "officialDiscord": "Offizieller Discord",
+    "officialYoutube": "Offizieller YouTube-Kanal",
+    "vvBuilder": "Basen-Planer",
+    "beginnerGuide": "Anfänger-Leitfaden",
+    "raceGuides": "Mechaniken & Taktik",
+    "bossGuides": "Gegenstände & Ausrüstung",
+    "buildGuide": "Basenbau-Leitfaden",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  },
+  "codes": {
+    "overviewTitle": "Hide Ur Base and Steal Codes",
+    "overviewDescription": "Aktuelle und funktionierende Einlösecodes für Hide ur Base and Steal auf Roblox. Sichere dir kostenlose Münzen, Werkzeuge und Boni."
+  },
+  "guide": {
+    "overviewTitle": "Hide Ur Base and Steal Leitfäden",
+    "overviewDescription": "Umfassende Schritt-für-Schritt-Anleitungen vom ersten Basenbau bis zu fortgeschrittenen Raiding-Strategien."
+  },
+  "mechanics": {
+    "overviewTitle": "Hide Ur Base and Steal Spielmechaniken",
+    "overviewDescription": "Lerne die Kernmechaniken hinter Sichtweiten, Alarmsystemen, Fallenplatzierung und Diebstahl-Timing."
+  },
+  "tips": {
+    "overviewTitle": "Hide Ur Base and Steal Tipps & Tricks",
+    "overviewDescription": "Wertvolle Ratschläge erfahrener Spieler zur effektiven Tarnung deiner Basis und schnellen Beutezügen."
+  },
+  "items": {
+    "overviewTitle": "Hide Ur Base and Steal Gegenstände",
+    "overviewDescription": "Übersicht über alle Baublöcke, Fallen, Einbruchswerkzeuge und Ausrüstungsgegenstände im Spiel."
+  },
+  "controls": {
+    "overviewTitle": "Hide Ur Base and Steal Steuerung",
+    "overviewDescription": "Tastenbelegung und Steuerungsoptionen für PC, Mobilgeräte und Controller."
+  },
+  "community": {
+    "overviewTitle": "Hide Ur Base and Steal Community",
+    "overviewDescription": "Offizielle Community-Links, Discord-Server, Update-Neuigkeiten und Spieler-Diskussionen."
+  }
+}

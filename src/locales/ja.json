@@ -1,1 +1,386 @@
-{}
+{
+  "site": {
+    "name": "Hide ur Base and Steal Wiki",
+    "shortName": "Base & Steal Wiki",
+    "tagline": "拠点を隠し、旗を守り、ライバルの拠点を襲撃せよ",
+    "description": "Robloxの人気ゲーム「Hide ur Base and Steal」の完全攻略Wikiです。最新コード、拠点建築戦略、潜入ステルス、操作方法を網羅しています。",
+    "legalNotice": "Hide ur Base and Steal Wikiはファンコミュニティによる非公式攻略情報サイトであり、Sutik x TommyおよびRoblox Corporationとは提携していません。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマ切り替え",
+    "codes": "コード",
+    "guide": "ガイド",
+    "mechanics": "仕様",
+    "tips": "攻略のコツ",
+    "items": "アイテム",
+    "controls": "操作方法",
+    "community": "コミュニティ"
+  },
+  "home": {
+    "meta": {
+      "title": "Hide ur Base and Steal Wiki — 最新コード・拠点建築・攻略ガイド",
+      "description": "RobloxのHide ur Base and Stealを徹底攻略。最新引き換えコード、偽装拠点作り、ステルス潜入テクニック、アイテム一覧と便利技まとめ。"
+    },
+    "hero": {
+      "badge": "Roblox 戦略・レイド",
+      "title": "Hide ur Base and Steal Wiki",
+      "description": "拠点を敵の視線から巧みに隠し、防衛トラップを仕掛け、ライバルの要塞へ潜入して豪華なお宝を強奪しましょう！",
+      "primaryCta": "攻略ガイドを見る",
+      "secondaryCta": "コードを確認する",
+      "stats": {
+        "articles": "攻略記事数",
+        "categories": "カテゴリ",
+        "updates": "最新バージョン対応"
+      },
+      "eyebrow": "ファンコミュニティWiki",
+      "videoLabel": "ゲームプレイ紹介",
+      "tertiaryCta": "有効なコード"
+    },
+    "updates": {
+      "title": "最新アップデート＆新着ガイド",
+      "description": "Hide ur Base and Stealの最新戦略、新コード配布、ゲームアップデート情報をいち早くお届けします。",
+      "badge": "新着情報",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "title": "初心者向けスタートガイド",
+      "description": "Hide ur Base and Stealを始めたばかりですか？生き残りと勝利に必要な4つの基本ステップを押さえましょう。",
+      "steps": [
+        {
+          "step": "01",
+          "title": "見つかりにくい隠れ場所を選ぶ",
+          "description": "平野などの目立つ場所には決して拠点を建てないでください。洞窟や岩陰、マップの死角を利用して敵の索敵を回避しましょう。"
+        },
+        {
+          "step": "02",
+          "title": "防衛設備とトラップの配置",
+          "description": "迷路状の通路、ダミーの壁、トラップを設置して、侵入してきたプレイヤーの足を確実に止めましょう。"
+        },
+        {
+          "step": "03",
+          "title": "偵察と潜入ルートの確保",
+          "description": "敵の拠点を慎重に観察し、防御の薄い弱点を見極めてから素早く侵入を試みましょう。"
+        },
+        {
+          "step": "04",
+          "title": "コード報酬でスタートダッシュ",
+          "description": "公式が配布する最新コードを入力して、無料コインや強化アイテムを手に入れ、拠点強化を加速させましょう。"
+        }
+      ],
+      "eyebrow": "ここからスタート",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者向けガイド",
+          "description": "秘密の入り口の設置方法、地下拠点へのアクセス、コイン稼ぎとペット収集の基本サイクルを学びましょう。"
+        },
+        {
+          "number": "2",
+          "title": "おすすめの隠れ場所",
+          "description": "他プレイヤーに見つかりにくい、マップ上の隠れた拠点ポータル設置スポットを特集。"
+        },
+        {
+          "number": "3",
+          "title": "ペット強奪ガイド",
+          "description": "ライバル拠点の偵察、秘密通路の突破、そして相手のペットを自分の金庫まで無事に持ち帰る技を解説。"
+        },
+        {
+          "number": "4",
+          "title": "拠点防衛とセキュリティ",
+          "description": "秘密部屋の強化、ダミー入り口の設置、侵入者を阻む最適な拠点レイアウトを構築しましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "title": "人気の攻略ガイド＆定番情報",
+      "description": "プレイヤーコミュニティで最も読まれているおすすめの攻略情報です。",
+      "eyebrow": "人気のページ",
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "拠点の入り口設定、ペットの管理、キャッシュの稼ぎ方を分かりやすく解説。",
+          "href": "/guide/hide-ur-base-and-steal-beginner-guide"
+        },
+        {
+          "badge": "更新済み",
+          "title": "有効なコード",
+          "description": "キャッシュやサーバーブーストが手に入る最新プロモコード一覧。",
+          "href": "/codes/hide-ur-base-and-steal-codes"
+        },
+        {
+          "badge": "人気",
+          "title": "おすすめの隠れ場所",
+          "description": "拠点を敵から見つかりにくくするマップ上の極秘スポット集。",
+          "href": "/guide/hide-ur-base-and-steal-best-hiding-spots"
+        },
+        {
+          "badge": "人気",
+          "title": "拠点防衛ガイド",
+          "description": "地下拠点を要塞化し、侵入者から大切なペットをしっかり防衛。",
+          "href": "/mechanics/hide-ur-base-and-steal-base"
+        }
+      ],
+      "quickLinks": [
+        "初心者ガイド",
+        "おすすめの隠れ場所",
+        "ペット強奪",
+        "有効なコード"
+      ]
+    },
+    "aboutGame": {
+      "title": "Hide ur Base and Stealとは",
+      "description": "Hide ur Base and Stealは、ステルス迷彩、自由な拠点建築、スリリングな潜入強奪アクションが融合したRobloxの人気ゲームです。開発グループSutik x Tommyが手掛けており、戦略的な思考と瞬時の判断力が試されます。",
+      "features": [
+        {
+          "title": "戦略的な拠点ビルド",
+          "description": "偽装入り口や迷路、トラップを駆使した難攻不落の隠れ家を自由に設計できます。"
+        },
+        {
+          "title": "白熱の潜入強奪レイド",
+          "description": "ライバル拠点の防衛をかいくぐり、宝箱を奪い取って無事に脱出しましょう。"
+        },
+        {
+          "title": "豊富なツールと装備",
+          "description": "壁を破壊するツールや特殊装備をアンロックして、侵入と防衛の両方を極めましょう。"
+        },
+        {
+          "title": "マルチプレイヤー対戦",
+          "description": "世界中のプレイヤーと対戦したり、フレンドと協力して大規模な拠点を攻略できます。"
+        }
+      ],
+      "cta": "すべてのガイドを見る",
+      "stats": [
+        {
+          "label": "開発者",
+          "value": "Sutik x Tommy"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "Roblox"
+        },
+        {
+          "label": "ジャンル",
+          "value": "シミュレーション / タイクーン"
+        },
+        {
+          "label": "総訪問回数",
+          "value": "3M+"
+        },
+        {
+          "label": "アクティブプレイヤー",
+          "value": "3K+"
+        },
+        {
+          "label": "最大CCU",
+          "value": "5K+"
+        },
+        {
+          "label": "コアゲーム性",
+          "value": "隠れる & 盗む"
+        }
+      ],
+      "paragraphs": [
+        "Hide ur Base and Stealは、Sutik x Tommyが手掛ける白熱のRobloxシミュレーション＆マルチプレイヤー戦略ゲームです。地下に自分だけの秘密拠点を隠し、継続的な収入を生み出す貴重なペットを集め、サーバー内の侵入者から資産を守り抜くことが目標です。",
+        "最大の醍醐味は、他プレイヤーが隠した拠点の入り口を突き止めることです。敵の防御の隙を突いて潜入し、相手の金庫から高ランクのペットを強奪して脱出しましょう。"
+      ]
+    },
+    "explore": {
+      "title": "カテゴリから探す",
+      "description": "知りたい情報に合わせて各カテゴリの攻略記事をチェックできます。",
+      "modules": [
+        {
+          "id": "module-codes",
+          "name": "Hide Ur Base and Steal 最新コード",
+          "category": "codes",
+          "layout": "list",
+          "count": 5,
+          "sort": "date"
+        },
+        {
+          "id": "module-guide",
+          "name": "Hide Ur Base and Steal 攻略ガイド",
+          "category": "guide",
+          "layout": "grid",
+          "count": 6,
+          "sort": "views"
+        },
+        {
+          "id": "module-mechanics",
+          "name": "Hide Ur Base and Steal ゲーム仕様",
+          "category": "mechanics",
+          "layout": "list",
+          "count": 5,
+          "sort": "date"
+        },
+        {
+          "id": "module-tips",
+          "name": "Hide Ur Base and Steal 上級テクニック",
+          "category": "tips",
+          "layout": "card-list",
+          "count": 4,
+          "sort": "date",
+          "highlights": [
+            {
+              "label": "偽装術",
+              "text": "地形のテクスチャと同化させて入り口を完全に隠蔽します。"
+            },
+            {
+              "label": "囮トラップ",
+              "text": "安価なアイテムを入れた偽の部屋を作り、侵入者の時間を奪います。"
+            },
+            {
+              "label": "消音移動",
+              "text": "しゃがみ移動を活用し、足音による探知を防いで忍び寄ります。"
+            }
+          ]
+        },
+        {
+          "id": "module-items",
+          "name": "Hide Ur Base and Steal アイテム・ツール一覧",
+          "category": "items",
+          "layout": "grid",
+          "count": 6,
+          "sort": "date"
+        },
+        {
+          "id": "module-controls",
+          "name": "Hide Ur Base and Steal 操作方法・キー設定",
+          "category": "controls",
+          "layout": "list",
+          "count": 4,
+          "sort": "date"
+        },
+        {
+          "id": "module-community",
+          "name": "Hide Ur Base and Steal コミュニティ・更新情報",
+          "category": "community",
+          "layout": "list",
+          "count": 4,
+          "sort": "date"
+        },
+        {
+          "id": "module-advanced",
+          "name": "Hide Ur Base and Steal 発展型攻略",
+          "category": "guide",
+          "layout": "card-list",
+          "count": 4,
+          "sort": "date",
+          "highlights": [
+            {
+              "label": "序盤",
+              "text": "手早く初期物資を保護しコンパクトな掩蔽壕を確保。"
+            },
+            {
+              "label": "発展",
+              "text": "二重エアロックと複数の緊急脱出経路を連動設計。"
+            },
+            {
+              "label": "目標",
+              "text": "高価値な宝物庫の探知と最速ルートでの制圧。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問 (FAQ)",
+      "description": "Hide ur Base and Stealをプレイする上で役立つFAQです。",
+      "items": [
+        {
+          "question": "Hide ur Base and Stealとはどんなゲームですか？",
+          "answer": "Roblox上で遊べる戦略潜入ゲームで、自分だけの秘密基地を作り、敵の侵入を防ぎつつ相手の拠点を襲撃してお宝を盗み合うゲームです。"
+        },
+        {
+          "question": "コードはどこで入力できますか？",
+          "answer": "ゲーム画面内のコードアイコン（またはギフトアイコン）をクリックし、有効なコードを入力して引き換えることで報酬が手に入ります。"
+        },
+        {
+          "question": "拠点はどこに建てるのが一番安全ですか？",
+          "answer": "メイン通路から離れた岩山の裏や、洞窟の奥深くなど、他のプレイヤーの視界に入りにくい死角が最もおすすめです。"
+        },
+        {
+          "question": "開発者は誰ですか？",
+          "answer": "Robloxの開発スタジオ「Sutik x Tommy」によって開発・運営されています。"
+        },
+        {
+          "question": "友達と一緒にプレイできますか？",
+          "answer": "はい、同じサーバーに参加してフレンドと一緒に拠点を作ったり、連携して他プレイヤーの拠点をレイドすることが可能です。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "次の大規模レイドに挑む準備はできましたか？",
+      "description": "誰にも破られない最強の拠点を築き、サーバー最強のマスター泥棒を目指しましょう。",
+      "primary": "攻略ガイドを見る",
+      "secondary": "Robloxでプレイ"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wikiナビゲーション",
+    "activeCodes": "有効なコード",
+    "updated": "更新日",
+    "viewAllCodes": "コード一覧を見る",
+    "playOnRoblox": "Robloxでプレイ",
+    "inThisSection": "このセクションの記事",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連トピック",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "現在このセクションに記事はありません。"
+  },
+  "footer": {
+    "aboutTitle": "このWikiについて",
+    "about": "Hide ur Base and Steal Wikiは、Robloxの人気ゲーム「Hide ur Base and Steal」の攻略法、拠点建築の秘訣、最新コードを網羅した総合情報サイトです。",
+    "quickLinks": "クイックリンク",
+    "guides": "攻略ガイド",
+    "legal": "規約・免責事項",
+    "copyright": "ゲーム内のすべてのコンテンツおよび商標の著作権は、それぞれの権利者に帰属します。",
+    "description": "Hide ur Base and Stealの総合コミュニティガイド。",
+    "playGame": "Robloxでプレイ",
+    "officialDiscord": "公式Discord",
+    "officialYoutube": "公式YouTubeチャンネル",
+    "vvBuilder": "拠点プランナー",
+    "beginnerGuide": "初心者ガイド",
+    "raceGuides": "ゲーム仕様と戦術",
+    "bossGuides": "アイテム・装備",
+    "buildGuide": "拠点建築ガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  },
+  "codes": {
+    "overviewTitle": "Hide Ur Base and Steal 最新コード",
+    "overviewDescription": "Roblox「Hide ur Base and Steal」の最新有効コード一覧。無料コインや限定アイテムを手に入れましょう。"
+  },
+  "guide": {
+    "overviewTitle": "Hide Ur Base and Steal 攻略ガイド",
+    "overviewDescription": "初心者向けの安全な拠点作りから、上級者向けの要塞侵入レイド戦略まで分かりやすく解説します。"
+  },
+  "mechanics": {
+    "overviewTitle": "Hide Ur Base and Steal ゲーム仕様",
+    "overviewDescription": "視界判定、トラップの反応、防犯アラーム、盗み成功のタイミングなどゲームシステムの仕様を解説。"
+  },
+  "tips": {
+    "overviewTitle": "Hide Ur Base and Steal 攻略のコツ",
+    "overviewDescription": "ベテランプレイヤー直伝の拠点偽装術や、見つからずに素早くお宝を持ち去る裏技集。"
+  },
+  "items": {
+    "overviewTitle": "Hide Ur Base and Steal アイテム・ツール一覧",
+    "overviewDescription": "建材ブロック、防衛トラップ、破壊ツール、装備品などの性能と入手方法をまとめています。"
+  },
+  "controls": {
+    "overviewTitle": "Hide Ur Base and Steal 操作方法",
+    "overviewDescription": "PC（キーボード・マウス）、モバイル（タッチ操作）、コントローラーの操作方法とキー配置一覧。"
+  },
+  "community": {
+    "overviewTitle": "Hide Ur Base and Steal コミュニティ",
+    "overviewDescription": "公式Discordサーバーやアップデート情報、プレイヤー同士の交流リンクまとめ。"
+  }
+}
