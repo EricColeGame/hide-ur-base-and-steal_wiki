@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "codes": "Codes",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "tips": "Tips",
+    "items": "Items",
+    "controls": "Controls",
+    "community": "Community"
   },
   "home": {
     "meta": {
@@ -387,5 +394,33 @@
     "buildGuide": "Infiltration Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "codes": {
+    "overviewTitle": "Hide ur Base and Steal Codes",
+    "overviewDescription": "Discover all active promo codes and reward redemption guides for Hide ur Base and Steal to unlock free cash, boosts, and exclusive perks."
+  },
+  "guide": {
+    "overviewTitle": "Hide ur Base and Steal Beginner Guides",
+    "overviewDescription": "Master the fundamentals of Hide ur Base and Steal with comprehensive beginner guides, walkthroughs, and base setup strategies."
+  },
+  "mechanics": {
+    "overviewTitle": "Hide ur Base and Steal Core Mechanics",
+    "overviewDescription": "In-depth breakdown of base concealment, pet generation, infiltration dynamics, and stealth mechanics in Hide ur Base and Steal."
+  },
+  "tips": {
+    "overviewTitle": "Hide ur Base and Steal Tips & Strategies",
+    "overviewDescription": "Essential tips and advanced tactics for securing your base, discovering impossible hiding spots, and outsmarting rival thieves."
+  },
+  "items": {
+    "overviewTitle": "Hide ur Base and Steal Items & Gear",
+    "overviewDescription": "Explore all available items, security doors, traps, lasers, and utility tools to reinforce your base in Hide ur Base and Steal."
+  },
+  "controls": {
+    "overviewTitle": "Hide ur Base and Steal Controls & Keybinds",
+    "overviewDescription": "Full list of PC, mobile, and console controls for moving, hiding, stealing, and teleporting in Hide ur Base and Steal."
+  },
+  "community": {
+    "overviewTitle": "Hide ur Base and Steal Community & Updates",
+    "overviewDescription": "Connect with fellow players, track game update patch notes, and join official community hubs for Hide ur Base and Steal."
   }
 }
