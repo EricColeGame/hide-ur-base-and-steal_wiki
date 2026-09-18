@@ -5,7 +5,7 @@ import { routing } from "@/i18n/routing";
 export const dynamic = "force-static";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://vvultimatum.sbs";
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://hide-ur-base-and-steal.wiki";
 
   // Static paths that always exist
   const staticPaths = ["/", "/races", "/bosses", "/codes", "/guide", "/tier-list", "/maps", "/skills", "/privacy-policy", "/terms-of-service", "/copyright", "/about"];
@@ -21,7 +21,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       url: `${siteUrl}/${locale}${path === "/" ? "" : path}`,
       lastModified: new Date(),
       changeFrequency: path === "/" ? ("daily" as const) : ("weekly" as const),
-      priority: path === "/" ? 1 : path === "/bosses" ? 0.8 : 0.6,
-    })),
+      priority: path === "/" ? 1 : 0.6,
+    }))
   );
 }

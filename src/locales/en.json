@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
+    "name": "Hide ur Base and Steal Wiki",
+    "shortName": "Hide ur Base and Steal",
+    "tagline": "Codes, Pets, Base Hiding & Infiltration Guides",
+    "description": "Your ultimate guide to Hide ur Base and Steal on Roblox! Explore active codes, pet collections, secret base hiding spots, and sneaking strategies.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -31,18 +31,18 @@
     },
     "hero": {
       "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "title": "Hide ur Base and Steal",
+      "description": "Hide your secret base, collect pets, earn money, and sneak into other players' bases to steal their pets in this Roblox simulation game.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "3M+ Visits",
+        "3K+ Players Online",
+        "Pet Collecting",
+        "Base Infiltration"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
+      "secondaryCta": "Pet Guide",
       "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "videoLabel": "Gameplay Showcase"
     },
     "updates": {
       "title": "Latest Updates",
@@ -342,9 +342,9 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
-      "primary": "Read the Beginner Guide",
+      "title": "Ready to Master Hide ur Base and Steal?",
+      "description": "From building secret hiding spots to infiltrating rival bases and collecting rare pets, our community wiki provides everything you need to dominate.",
+      "primary": "Read the Guide",
       "secondary": "Play on Roblox"
     }
   },
@@ -379,21 +379,21 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Hide ur Base and Steal Wiki",
+    "about": "Hide ur Base and Steal Wiki is an independent fan-built guide hub covering secret base building, pet collections, base infiltration, economy tips, and essential Roblox gameplay knowledge.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
-    "officialDiscord": "Official Discord",
-    "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "copyright": "2026 Hide ur Base and Steal Wiki. Not affiliated with Sutik x Tommy or Roblox.",
+    "description": "Roblox pet-collecting and base-stealing simulator by Sutik x Tommy. Hide your base, collect pets, and sneak into rival bases.",
+    "playGame": "Play Hide ur Base and Steal",
+    "officialDiscord": "Official Community",
+    "officialYoutube": "Official Media",
+    "vvBuilder": "Base Planner",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "raceGuides": "Pet Guides",
+    "bossGuides": "Base Guides",
+    "buildGuide": "Infiltration Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }

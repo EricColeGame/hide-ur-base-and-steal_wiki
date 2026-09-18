@@ -19,18 +19,18 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "Xld4JVVKQUw", // Roblox My Seafood Stand codes & gameplay video
+  name: "Hide ur Base and Steal Wiki",
+  shortName: "Hide ur Base and Steal",
+  logoText: "HB",
+  tagline: "Codes, Pets, Base Hiding & Infiltration Guides",
+  description: "Your ultimate guide to Hide ur Base and Steal on Roblox! Explore active codes, pet collections, secret base hiding spots, and sneaking strategies.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://hide-ur-base-and-steal.wiki",
+  supportEmail: "support@hide-ur-base-and-steal.wiki",
+  gameUrl: "https://www.roblox.com/games/80844740579381/Hide-ur-Base-and-Steal?utm_source=chatgpt.com",
+  heroVideoId: "Xld4JVVKQUw",
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    discord: "https://www.roblox.com/games/80844740579381/Hide-ur-Base-and-Steal?utm_source=chatgpt.com",
+    youtube: "https://www.youtube.com/watch?v=Xld4JVVKQUw",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
