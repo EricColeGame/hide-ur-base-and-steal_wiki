@@ -32,6 +32,6 @@ export const siteConfig: SiteConfig = {
     discord: "https://www.roblox.com/games/80844740579381/Hide-ur-Base-and-Steal?utm_source=chatgpt.com",
     youtube: "https://www.youtube.com/watch?v=Xld4JVVKQUw",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "de", "es", "ja"],
   defaultLocale: "en",
 };
